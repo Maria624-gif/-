@@ -1,0 +1,12 @@
+obyava y, x : int
+/*комментарии*/
+[
+y:= 50;
+x:= 5;
+kogda (y>x) togda [
+x:=x+2;
+print(x);
+print(",")
+]
+]
+
